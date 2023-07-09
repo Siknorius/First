@@ -12,7 +12,7 @@ int main(void)
     smile();
     printf("\n");
     
-        return 0;
+    return 0;
 }
 
 void smile()
