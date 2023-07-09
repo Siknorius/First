@@ -4,24 +4,24 @@ void jolly();
 
 void deny();
 
-main (void)
+int main (void)
 {
     jolly();
     jolly();
     jolly();
     deny();
-    
+    getchar();
         return 0;
 }
-    
-    void jolly()
+
+void jolly()
 
 {
-    printf("Он весёлый молодец!\n");
+    printf("He is funny good lad!\n");
 }
-    
-    void deny()
+
+void deny()
 
 {
-    printf("Никто не может это отрицать!\n");
+    printf("No one can't deny it!\n");
 }
