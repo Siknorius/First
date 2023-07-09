@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main (void)
+
 {
     int лет, дней;
     лет = 13;
