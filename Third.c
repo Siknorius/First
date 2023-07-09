@@ -8,5 +8,5 @@ int main (void)
     дней = лет * 365;
     printf("Я живу %d лет который is %d дней", лет, дней);
         
-        return 0;
+    return 0;
 }
