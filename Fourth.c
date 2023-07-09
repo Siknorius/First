@@ -5,7 +5,6 @@ void jolly();
 void deny();
 
 int main (void)
-
 {
     jolly();
     jolly();
