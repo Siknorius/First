@@ -5,15 +5,16 @@ void one_three();
 void two();
 
 int main()
+
 {
     printf("start:\n");
     one_three();
     printf("good!\n");
     
-        return 0;
+    return 0;
 }
     
-    void one_three()
+void one_three()
 
 {
     printf("one\n");
@@ -21,7 +22,7 @@ int main()
     printf("three\n");
 }
     
-    void two()
+void two()
 
 {
     printf("two\n");
