@@ -8,5 +8,5 @@ int main(void)
     printf("Чебуков\n");
     printf("Чебуков Никита \n");
 
-        return 0;
+    return 0;
 }
