@@ -12,7 +12,8 @@ int main (void)
     jolly();
     deny();
     getchar();
-        return 0;
+    
+    return 0;
 }
 
 void jolly()
