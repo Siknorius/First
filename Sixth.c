@@ -11,5 +11,6 @@ int main(void)
     printf("Two humans got %d toes\n", toes_2x);
     printf("Ten humans got %d toes", toes_square);
     getchar();
+    
     return 0;
 }
