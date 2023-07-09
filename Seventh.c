@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 void smile();
+
 int main(void)
 {
     smile(); smile(); smile();
@@ -12,7 +13,9 @@ int main(void)
     
         return 0;
 }
-    void smile()
-{
-    printf("Smile!");
-}
+
+void smile()
+    
+{    
+    printf("Smile!");  
+}    

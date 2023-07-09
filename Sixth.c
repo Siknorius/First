@@ -12,5 +12,5 @@ int main(void)
     printf("Ten humans got %d toes", toes_square);
     getchar();
     
-    return 0;
+        return 0;
 }

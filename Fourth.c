@@ -11,13 +11,17 @@ main (void)
     jolly();
     deny();
     
-    return 0;
+        return 0;
 }
+    
     void jolly()
+
 {
     printf("Он весёлый молодец!\n");
 }
+    
     void deny()
+
 {
     printf("Никто не может это отрицать!\n");
 }
