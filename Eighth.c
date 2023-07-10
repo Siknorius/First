@@ -1,7 +1,9 @@
 #include <stdio.h>
 
 void one_three();
+
 void two();
+
 int main()
 {
     printf("start:\n");
@@ -12,7 +14,6 @@ int main()
 }
     
 void one_three()
-
 {
     printf("one\n");
     two();
@@ -20,7 +21,6 @@ void one_three()
 }
     
 void two()
-
 {
     printf("two\n");
 }

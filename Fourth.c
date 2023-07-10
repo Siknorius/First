@@ -1,7 +1,9 @@
 #include <stdio.h>
 
 void jolly();
+
 void deny();
+
 int main (void)
 {
     jolly();
@@ -14,13 +16,11 @@ int main (void)
 }
 
 void jolly()
-
 {
     printf("He is funny good lad!\n");
 }
 
 void deny()
-
 {
     printf("No one can't deny it!\n");
 }
