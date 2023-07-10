@@ -4,9 +4,12 @@ void smile();
 
 int main(void)
 {
-    smile(); smile(); smile();
+    smile(); 
+    smile(); 
+    smile();
     printf("\n");
-    smile(); smile();
+    smile(); 
+    smile();
     printf("\n");
     smile();
     printf("\n");
