@@ -1,9 +1,7 @@
 #include <stdio.h>
 
 void jolly();
-
 void deny();
-
 int main (void)
 {
     jolly();

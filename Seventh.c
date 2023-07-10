@@ -1,9 +1,7 @@
 #include <stdio.h>
 
 void smile();
-
 int main(void)
-
 {
     smile(); smile(); smile();
     printf("\n");

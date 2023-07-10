@@ -1,9 +1,7 @@
 #include <stdio.h>
 
 void one_three();
-
 void two();
-
 int main()
 {
     printf("start:\n");
