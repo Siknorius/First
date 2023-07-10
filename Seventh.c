@@ -8,9 +8,11 @@ int main(void)
     smile(); 
     smile();
     printf("\n");
+    
     smile(); 
     smile();
     printf("\n");
+    
     smile();
     printf("\n");
     

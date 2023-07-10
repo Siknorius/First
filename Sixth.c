@@ -5,6 +5,7 @@ int main(void)
     int toes = 10;
     int toes_2x;
     int toes_square;
+    
     toes_2x = 2 * toes;
     toes_square = toes * toes;
     
