@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 int main(void)
-
 {
     int toes = 10;
     int toes_2x;
