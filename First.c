@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 int main(void)
-
 {
     printf("Чебуков Никита\n");
     printf("Никита\n"); 
