@@ -2,7 +2,7 @@
 
 int main(void)
 {
-float quarts, grams, molecules;
+    float quarts, grams, molecules;
     
     printf("How much water do you drink daily (in quarts):\n");
     scanf("%f", &quarts);
